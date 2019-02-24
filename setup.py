@@ -6,7 +6,7 @@ A library that allows to use the K-Means algorithm using having the possibility 
 
 setup(
     name='KMeans-Multidistance',
-    version='0.0.94',
+    version='0.0.1',
     description='K-Means implementation with multiple distance choices',
     long_description=long_desc,
     author='David Perez Delgado',
