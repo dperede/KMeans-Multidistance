@@ -16,7 +16,7 @@ setup(
     install_requires=[
       'numpy==1.15.4',
       'matplotlib>=3.0.2',
-      'scikit-learn>=0.21.1'
+      'scikit-learn>=0.20.1'
     ],
     packages=['KMeans_Multidistance']
 )
