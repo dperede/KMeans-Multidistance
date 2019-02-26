@@ -6,13 +6,13 @@ A library that allows to use the K-Means algorithm using having the possibility 
 
 setup(
     name='KMeans-Multidistance',
-    version='1.0.1',
+    version='1.0.2',
     description='K-Means implementation with multiple distance choices',
     long_description=long_desc,
     author='David Perez Delgado',
     author_email='cathan.89@gmail.com',
     url='https://github.com/dperede/KMeans-Multidistance',
-    download_url='https://github.com/dperede/KMeans-Multidistance/archive/v1.0.1.tar.gz',
+    download_url='https://github.com/dperede/KMeans-Multidistance/archive/v1.0.2.tar.gz',
     install_requires=[
       'numpy==1.15.4',
       'matplotlib>=3.0.2',
