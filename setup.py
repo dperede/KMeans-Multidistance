@@ -14,7 +14,7 @@ setup(
     url='https://github.com/dperede/KMeans-Multidistance',
     download_url='https://github.com/dperede/KMeans-Multidistance/archive/v1.0.2.tar.gz',
     install_requires=[
-      'numpy==1.15.4',
+      'numpy==1.22.0',
       'matplotlib>=3.0.2',
       'scikit-learn>=0.20.1'
     ],
